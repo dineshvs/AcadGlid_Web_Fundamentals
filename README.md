@@ -1,0 +1,2 @@
+# AcadGlid_Web_Fundamentals
+AcadGlid Assignments
